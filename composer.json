@@ -1,7 +1,7 @@
 {
-	"name" : "cheese-burgames/pdo-database-manager",
-	"description" : "Database manager based on PDO with extension methods",
-	"homepage" : "https://github.com/cheeseburgames/pdo-database-manager",
+	"name" : "cheese-burgames/php-xtralife-gateway",
+	"description" : "Gateway for XtraLife game-as-a-platform backoffice and backend API",
+	"homepage" : "https://github.com/cheeseburgames/php-xtralife-gateway",
 	"require" : {
 		"php" : "^5.4.0 || ^7.0"
 	},
